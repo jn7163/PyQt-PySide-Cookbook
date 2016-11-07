@@ -6,6 +6,7 @@
   * [动态创建一系列组件并绑定信号和槽](signal-and-slot/dynamical-create-a-series-of-widget-and-binding-signal-and-slot.md)
 
 * [Widget](widget/README.md)
+  * [QLineEdit搜索框](widget/qlineedit_search_bar.md)
   * [带overflow效果的按钮](widget/css_overflowlabel.md)
   * [QAction](widget/31qmenu.md)
 
