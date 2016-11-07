@@ -22,5 +22,4 @@
 * [StyleSheet](stylesheet/README.md)
 * [Designer](designer/README.md)
     * [Promoted Widgets](designer/promoted_widgets.md)
-* 给QLineEdit textChanged添加延迟效果
 
