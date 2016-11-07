@@ -1,6 +1,9 @@
 # QLineEdit 搜索框
 
 想实现的效果是，在左侧加一个搜索图标，右侧当有文字输入时，显示一个清楚内容的叉
+
+![screenshot](https://i0.wp.com/i.imgur.com/I5SJDPE.gif)
+
 ```python
 import sys
 from PyQt4 import QtGui, QtCore
@@ -82,4 +85,7 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 ```
 
-* 
+* QByteArray.fromBase64()用来读取base64编码的png图片
+* clearButton 是一个QToolButton,仅当输入框有内容的时候才出现
+* searchButtonPixmap是左侧的放大镜图标，是在paintEvent中画出来的
+* 输入框是圆角的是因为有css border-radius
