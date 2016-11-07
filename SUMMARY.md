@@ -3,21 +3,17 @@
 * [简介](README.md)
 * [资源和翻译](/resources.md)
 * [信号和槽](signal-and-slot/README.md)
-
   * [动态创建一系列组件并绑定信号和槽](signal-and-slot/dynamical-create-a-series-of-widget-and-binding-signal-and-slot.md)
 
 * [Widget](widget/README.md)
-
   * [带overflow效果的按钮](widget/css_overflowlabel.md)
   * [QAction](widget/31qmenu.md)
 
 * [List Widget](list/README.md)
-
   * [遍历List Widget](list/list_widget.md)
   * [同时勾选多个items](list/article.md)
 
 * [Tree](tree/README.md)
-
   * [半透明效果拖拽](tree/article.md)
   * [自定义drop indicator](tree/drop_indicator.md)
   * [拖拽带itemWidget的treeWidgetItem](tree/article.md)
@@ -28,7 +24,6 @@
 * [打包发布](README.md)
 * [StyleSheet](stylesheet/README.md)
 * [Designer](designer/README.md)
-
   * [Promoted Widgets](designer/promoted_widgets.md)
 
 * [Graphics View](graphics_view/README.md)
